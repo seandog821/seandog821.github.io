@@ -1,0 +1,22 @@
+html {
+        height: 100%;
+}
+body {
+    width: 800px;
+    height: 100%;
+}
+
+header {
+    background-color: #3320d8;
+    padding-left: 25px;
+    padding-right: 5px;
+    font-size: 30px;
+    margin: 100
+    px;
+    border: 10px solid;
+    display: block;
+}
+nav {
+    float: left;
+    width: 100%;
+}
